@@ -1,0 +1,5 @@
+let num1 = +prompt("Nhap so 1:")
+let num2 = +prompt("Nhap so thu 2:")
+let num3 = +prompt("Nhap so thu 3:")
+let result= Math.max(num1, num2, num3)
+alert("so lon nhat:" +result)
